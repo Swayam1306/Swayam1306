@@ -53,19 +53,40 @@ I enjoy taking an idea from **problem → data → model → system → real-wor
 <p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> </p>
 
 <!-- ======================= GITHUB STATS ======================= -->
-📈 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Swayam1306&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayam1306&layout=compact&theme=tokyonight&hide_border=true"/> </div>
 
-<!-- ======================= STREAK ======================= -->
-🔥 Contribution Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=Swayam1306&theme=tokyonight&hide_border=true"/> </div>
+## 📈 GitHub Stats
 
-<!-- ======================= ACTIVITY ======================= -->
-🐍 Contribution Activity
 <div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Swayam1306&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayam1306&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
+---
+
+<!-- ======================= CONTRIBUTION STREAK ======================= -->
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Swayam1306&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<!-- ======================= CONTRIBUTION ACTIVITY ======================= -->
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+
+</div>
 <!-- ======================= CONNECT ======================= -->
 🤝 Let's Connect
 <div align="center"> <a href="https://www.linkedin.com/in/Swayam Halpatrao/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:swayamhalpatrao18gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/Swayam1306"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
